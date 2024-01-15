@@ -33,13 +33,22 @@ $(document).ready(function() {
 
 
     $(".view-form-direct").click(function() {
+        // let user {
+            // loop users
+            //
+            // forEach user of user
+            //
+            // show users firstname + lastname
+            //
+            // show users email
+        // }
+
         let formHtml = `
       <div class="column gap-10">
-      <p id="formSelection" class="d-flex flex-column gap-15">
-      <ul>
-      <li>user name </li>
-      <li>user email  </li>
-      </ul>
+      <div id="formSelection" class="d-flex flex-column gap-15">
+<!--      make clickable to show the users email with their full name-->
+      <h1>user.firstname + user.lastname</h1>
+      <h2>user.email</h2>
       </p>
       </div>
         `;

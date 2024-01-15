@@ -1,8 +1,8 @@
 {
   "users": [
     {
-      "name": "diaphon",
-      "lname": "deeznuts",
+      "firstname": "diaphon",
+      "lastname": "deeznuts",
       "email": "diaphondeeznuts@example.com",
       "id": 1
     }
