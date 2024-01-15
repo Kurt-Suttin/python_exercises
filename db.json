@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "name": "diaphon",
+      "lname": "deeznuts",
+      "email": "diaphondeeznuts@example.com",
+      "id": 1
+    }
+  ]
+}
