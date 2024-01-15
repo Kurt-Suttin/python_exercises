@@ -1,10 +1,28 @@
 {
   "users": [
     {
-      "firstname": "diaphon",
-      "lastname": "deeznuts",
+      "name": "diaphon deeznuts",
       "email": "diaphondeeznuts@example.com",
+      "color": "red",
       "id": 1
+    },
+    {
+      "name": "kurt suttin",
+      "email": "kurtlesuttin@gmail.com",
+      "color": "green",
+      "id": 2
+    },
+    {
+      "name": "jimmy choo",
+      "email": "jimmychoo@yayaya.com",
+      "color": "orange",
+      "id": 3
+    },
+    {
+      "name": "Donny Rock",
+      "email": "Donyrock@space.org",
+      "color": "babyblue",
+      "id": 4
     }
   ]
 }
